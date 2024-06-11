@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mpps/static/css/main.4ba64051.css",
+    "main.js": "/mpps/static/js/main.ac174b8b.js",
+    "index.html": "/mpps/index.html",
+    "main.4ba64051.css.map": "/mpps/static/css/main.4ba64051.css.map",
+    "main.ac174b8b.js.map": "/mpps/static/js/main.ac174b8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba64051.css",
+    "static/js/main.ac174b8b.js"
+  ]
+}
